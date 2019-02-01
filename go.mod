@@ -114,7 +114,7 @@ require (
 	github.com/xeonx/timeago v1.0.0-rc3
 	github.com/zenazn/goji v0.9.0 // indirect
 	go.uber.org/atomic v1.3.2 // indirect
-	golang.org/x/crypto v0.0.0-20190104202753-ff983b9c42bc
+	golang.org/x/crypto v0.0.0-20190201180555-b8fe1690c613
 	golang.org/x/net v0.0.0-20190108225652-1e06a53dbb7e
 	golang.org/x/oauth2 v0.0.0-20181203162652-d668ce993890
 	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4
